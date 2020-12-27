@@ -1,0 +1,12 @@
+D:\C#\FoodTruck\FoodTruck\bin\Debug\FoodTruck.exe.config
+D:\C#\FoodTruck\FoodTruck\bin\Debug\FoodTruck.exe
+D:\C#\FoodTruck\FoodTruck\bin\Debug\FoodTruck.pdb
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.csprojAssemblyReference.cache
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.Form1.resources
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.Properties.Resources.resources
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.csproj.GenerateResource.cache
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.csproj.CoreCompileInputs.cache
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.exe
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.pdb
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.mainform.resources
+D:\C#\FoodTruck\FoodTruck\obj\Debug\FoodTruck.Form2.resources
